@@ -1,6 +1,4 @@
-# Binaries
-hello
-tour_of_go
-
+# Compiled Go binaries
+*
 # IDE
 .idea/
